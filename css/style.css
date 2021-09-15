@@ -1,0 +1,118 @@
+/* ОБНУЛЕНИЕ СТИЛЕЙ */
+*,
+*::before,
+*::after {
+}
+/* margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+} */
+img {
+	vertical-align: top;
+}
+/* --------------- */
+
+#p0 {
+	color: cyan;
+}
+p {
+	color: hotpink;
+}
+#textspisok {
+	color: magenta;
+}
+ol li a {
+	color: limegreen;
+}
+ul li a {
+	color: navy;
+}
+
+h1 {
+	color: fuchsia;
+}
+h4 {
+	color: darkturquoise;
+}
+div h4 {
+	color: violet;
+}
+a {
+	color: black;
+}
+div p {
+	color: olive;
+}
+div a {
+	color: plum;
+}
+.text1 a {
+	color: mediumvioletred;
+}
+.text1 {
+	color: royalblue;
+}
+.text2 {
+	color: mediumpurple;
+}
+.vid .text3 {
+	color: yellowgreen;
+}
+.text3 a {
+	color: tomato;
+}
+.text4 {
+	color: springgreen;
+}
+.text4 a {
+	color: red;
+}
+.text5 {
+	color: orange;
+}
+.text6 {
+	color: mediumvioletred;
+}
+.text7 {
+	color: aqua;
+}
+.text8 {
+	color: magenta;
+}
+div ul {
+	color: palevioletred;
+}
+.spisok2 li a {
+	color: saddlebrown;
+}
+.text9 {
+	color: yellow;
+}
+.text10 {
+	color: goldenrod;
+}
+.vid {
+	color: greenyellow;
+}
+footer {
+	color: gold;
+}
